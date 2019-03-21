@@ -1,0 +1,63 @@
+.text-platzi{
+
+    color:#fb8d10 !important;
+}
+
+
+.btn-platzi{
+    background-color:#fb8d10;
+}
+.btn-platzi:hover{
+
+    background-color: #cf740b;
+}
+
+#header{
+    background-color: #052452 !important ;
+
+}
+#header img{
+    width: 90px;
+}
+
+
+#main .carousel-inner img{
+
+    max-height: 70vh;
+    object-fit: coner;
+    filter: grayscale(70%)
+
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay{
+    position: absolute;
+    top: 0 ;
+    bottom: 0 ;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#carousel .overlay .container , 
+#carousel .overlay .row{
+    height:100% ;
+
+}
+#place-time{
+    background-color: #052452;
+    color: white;
+}
+#place-time img{
+
+    max-width: 100%;
+}
+#footer {
+
+background: #052452 !important;
+
+}
